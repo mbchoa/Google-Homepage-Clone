@@ -26,6 +26,10 @@ input {
   border: 1px solid gainsboro;
 }
 
+input:hover {
+  border: 1px solid #b3b3b3;
+}
+
 #button-group {
   text-align: center;
 }
