@@ -35,11 +35,11 @@ body {
 }
 
 .btn {
-  padding: 8px 16px;
+  padding: 10px 16px;
   background: whitesmoke;
   color: gray;
   border-radius: 2px;
-  border: 2px solid transparent;
+  border: 1px solid transparent;
 }
 
 .btn:hover {
@@ -48,6 +48,6 @@ body {
 }
 
 #search {
-  margin-right: 3px;
+  margin-right: 4px;
 }
 
