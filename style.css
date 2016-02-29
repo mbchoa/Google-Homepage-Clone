@@ -13,13 +13,17 @@ body {
 
 #input-field {
   text-align: center;
-  margin-bottom: 34px;
+  margin-bottom: 31px;
+  /*border: 1px solid black;*/
 }
 
-#input-field > input {
+#input-field input {
   font-size: 18px;
   padding: 9px;
   border: 1px solid gainsboro;
+  width: 585px;
+  margin-left: 15px;
+  /*border: 1px solid red;*/
 }
 
 #input-field > input:hover {
